@@ -1,1 +1,3 @@
 Howdy, this project is to provide a graphical user interface (GUI) for aquaponic environments using Python. Specifically, I created an feeding algorithm for prawn  and would like to now optimize it by building a GUI and create different algorithms for different aquaculture. This is all to provide a low cost solution for food sustainability across the world no matter what aquaponic environment you have. 
+
+**** UNDER DEVELOPMENT ****
